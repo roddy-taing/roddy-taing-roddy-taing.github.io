@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sameer K. Deshpande"
+title                    : "Roddy Taing"
 title_separator          : "-"
-name                     : &name "Sameer K. Deshpande"
-description              : &description "Assistant Professor at UW–Madison"
-url                      : https://skdeshpande91.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Roddy Taing"
+description              : &description "PhD Student at UW–Madison"
+url                      : https://roddy-taing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "skdeshpande91/skdeshpande91.github.io"
+repository               : "roddy-taing/roddy-taing.github.io"
 teaser                   : "500x300.png"  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sameer Deshpande"
-  avatar           : "SameerDeshpande_headshot.jpg"
-  bio              : "Assistant Professor at  <a href='http://www.wisc.edu'>UW–Madison</a>"
+  name             : "Roddy Taing"
+  avatar           : "RoddyTaing_headshot.jpg"
+  bio              : "PhD Student at  <a href='http://www.wisc.edu'>UW–Madison</a>"
   location         : "Madison, WI, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=coVrnWIAAAAJ&hl=en"
+  googlescholar    : 
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Sameer_Deshpande4"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "skdeshpande91"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-4116-5533"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "skdeshpande91"
+  twitter          :
   vine             :
   weibo            :
   xing             :
